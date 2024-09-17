@@ -1,13 +1,13 @@
 [
         {
-            "m_ID": 0,
-            "m_noteDesc": "Random",
-            "m_prefab": ""
+            "m_ID": 106,
+            "m_noteDesc": "Stormwind 2",
+            "m_prefab": "STW2.prefab:5e366efaa0b31d849b548ecf8b256eeb"
         },
         {
-            "m_ID": 105,
-            "m_noteDesc": "Mercenaries Blackrock Mountain",
-            "m_prefab": "Mercenaries_BlackrockMountain.prefab:5fa6735be8cda29459e5a765021e3545"
+            "m_ID": 118,
+            "m_noteDesc": "Alterac",
+            "m_prefab": "ALT.prefab:8c00b37d70642f34489a8d619984aa63"
         },
         {
             "m_ID": 134,
