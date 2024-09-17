@@ -1,7 +1,17 @@
 [
         {
+            "m_ID": 0,
+            "m_noteDesc": "Random",
+            "m_prefab": ""
+        },
+        {
             "m_ID": 105,
             "m_noteDesc": "Mercenaries Blackrock Mountain",
             "m_prefab": "Mercenaries_BlackrockMountain.prefab:5fa6735be8cda29459e5a765021e3545"
+        },
+        {
+            "m_ID": 134,
+            "m_noteDesc": "TOY",
+            "m_prefab": "TOY.prefab:b75a2407571748b47a20b9f395a0d93b"
         }
-    ]
+]
