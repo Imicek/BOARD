@@ -1,5 +1,15 @@
 [
         {
+            "m_ID": 140,
+            "m_noteDesc": "Raptor",
+            "m_prefab": "EDR.prefab:bcfd620464eb4f249ba23860cabdaf04"
+        },
+        {
+            "m_ID": 141,
+            "m_noteDesc": "TLC",
+            "m_prefab": "TLC.prefab:eb23e1698e19a2e42b483de4a626437c"
+        }
+        {
             "m_ID": 106,
             "m_noteDesc": "Stormwind 2",
             "m_prefab": "STW2.prefab:5e366efaa0b31d849b548ecf8b256eeb"
