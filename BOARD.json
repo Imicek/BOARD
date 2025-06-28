@@ -10,16 +10,6 @@
             "m_prefab": "TLC.prefab:eb23e1698e19a2e42b483de4a626437c"
         },
         {
-            "m_ID": 106,
-            "m_noteDesc": "Stormwind 2",
-            "m_prefab": "STW2.prefab:5e366efaa0b31d849b548ecf8b256eeb"
-        },
-        {
-            "m_ID": 118,
-            "m_noteDesc": "Alterac",
-            "m_prefab": "ALT.prefab:8c00b37d70642f34489a8d619984aa63"
-        },
-        {
             "m_ID": 134,
             "m_noteDesc": "TOY",
             "m_prefab": "TOY.prefab:b75a2407571748b47a20b9f395a0d93b"
