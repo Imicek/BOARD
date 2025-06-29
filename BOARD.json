@@ -1,32 +1,12 @@
 [
         {
-            "m_ID": 130,
-            "m_noteDesc": "Battle of the Bands",
-            "m_prefab": "BotB.prefab:cc2a6f3817baa1a4f93c276c693a02ee"
+            "m_ID": 61,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
         },
         {
-            "m_ID": 131,
-            "m_noteDesc": "Titans",
-            "m_prefab": "TTN.prefab:561434872abcf8e4cb94a43b01e99f87"
+            "m_ID": 54,
+            "m_noteDesc": "Frozen Throne",
+            "m_prefab": "ICC.prefab:448123f63df359d4186bdb3a9e638d39"
         },
-        {
-            "m_ID": 133,
-            "m_noteDesc": "WW",
-            "m_prefab": "WW.prefab:f62bd7d93bfd983469707100fc48a6e8"
-        },
-        {
-            "m_ID": 134,
-            "m_noteDesc": "TOY",
-            "m_prefab": "TOY.prefab:b75a2407571748b47a20b9f395a0d93b"
-        },
-        {
-            "m_ID": 140,
-            "m_noteDesc": "Raptor",
-            "m_prefab": "EDR.prefab:bcfd620464eb4f249ba23860cabdaf04"
-        },
-        {
-            "m_ID": 141,
-            "m_noteDesc": "TLC",
-            "m_prefab": "TLC.prefab:eb23e1698e19a2e42b483de4a626437c"
-        }
 ]
