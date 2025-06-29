@@ -1,50 +1,5 @@
 [
         {
-            "m_ID": 118,
-            "m_noteDesc": "Alterac",
-            "m_prefab": "ALT.prefab:8c00b37d70642f34489a8d619984aa63"
-        },
-        {
-            "m_ID": 119,
-            "m_noteDesc": "Mercenaries Alterac Valley",
-            "m_prefab": "Mercenaries_AlteracValley.prefab:c578a4ad76820114ab3953efb7a78794"
-        },
-        {
-            "m_ID": 120,
-            "m_noteDesc": "Voyage to Sunken City",
-            "m_prefab": "VSC.prefab:7225a0bcf56fedb4f893a42e15398d8f"
-        },
-        {
-            "m_ID": 121,
-            "m_noteDesc": "Mercenaries Onyxia",
-            "m_prefab": "Mercenaries_Onyxia.prefab:e21e725e41255b847a0f712857fc34e7"
-        },
-        {
-            "m_ID": 123,
-            "m_noteDesc": "Mercenaries Darkshore",
-            "m_prefab": "Mercenaries_Darkshore.prefab:a96e7e7ac2e215f4288eb29620c860dc"
-        },
-        {
-            "m_ID": 124,
-            "m_noteDesc": "Mercenaries Voyage To The Sunken City",
-            "m_prefab": "Mercenaries_SunkenCity.prefab:1954744985506ba418db80c35c298647"
-        },
-        {
-            "m_ID": 125,
-            "m_noteDesc": "Mercenaries The Darkmoon Troupe",
-            "m_prefab": "Mercenaries_DarkmoonTroupe.prefab:3f61400aa024ad4478ee04abaceff7bf"
-        },
-        {
-            "m_ID": 126,
-            "m_noteDesc": "Revendreth",
-            "m_prefab": "REV.prefab:2cf7f9fb28d46eb45b41bd2d79720bef"
-        },
-        {
-            "m_ID": 129,
-            "m_noteDesc": "March of the Lich King",
-            "m_prefab": "MOTLK.prefab:8002f6df073ed434c9d4309824a94621"
-        },
-        {
             "m_ID": 130,
             "m_noteDesc": "Battle of the Bands",
             "m_prefab": "BotB.prefab:cc2a6f3817baa1a4f93c276c693a02ee"
