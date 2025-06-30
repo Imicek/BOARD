@@ -9,4 +9,64 @@
             "m_noteDesc": "Frozen Throne",
             "m_prefab": "ICC.prefab:448123f63df359d4186bdb3a9e638d39"
         },
+        {
+            "m_ID": 9,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 15,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 16,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 17,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 18,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 19,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 20,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 21,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+                {
+            "m_ID": 22,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 23,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 24,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
+        {
+            "m_ID": 25,
+            "m_noteDesc": "Kobolds and Catacombs",
+            "m_prefab": "LOOT.prefab:9e8e74d2a1f4b204c8045b45ec18c380"
+        },
 ]
