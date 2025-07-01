@@ -4,19 +4,4 @@
             "m_noteDesc": "Stormwind",
             "m_prefab": "STW.prefab:f9e7857518f178f469f1e0b3bcf72fb3"
         },
-        {
-            "m_ID": 2,
-            "m_noteDesc": "Orgrimmar",
-            "m_prefab": "ORG.prefab:f1880bb09582d6a429a79214401dfb5c"
-        },
-        {
-            "m_ID": 3,
-            "m_noteDesc": "Pandaria",
-            "m_prefab": "MOP.prefab:9f0d73a0bf8e4c44da32b6e24707678f"
-        },
-        {
-            "m_ID": 4,
-            "m_noteDesc": "Stranglethorn",
-            "m_prefab": "STR.prefab:0c5d1122cfb42df4fbf1f01b253437a9"
-        }
     ]
